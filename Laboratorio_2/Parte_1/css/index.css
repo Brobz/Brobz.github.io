@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  font-size: 25px;
+  color: aquamarine;
+  padding: 5%;
+  margin: 5%;
+  background-color: rebeccapurple;
+  border-width: 15px;
+  border-color: brown;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo > img {
+  width: 50px;
+}
+

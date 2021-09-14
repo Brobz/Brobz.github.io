@@ -1,0 +1,25 @@
+
+aside{
+  clear:right;
+  float:left;
+  width: 33%;
+}
+
+nav{
+  float: left;
+  width: 33%;
+  
+}
+.section-container{
+  float:left;
+  width: 33%;
+}
+
+footer{
+  float:none;
+  clear: left;
+  display: flex;
+  background-color: black;
+  color: white;
+  justify-content: space-around;
+}
